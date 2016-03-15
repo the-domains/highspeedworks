@@ -1,0 +1,28 @@
+name: HighspeedWorks
+favicon: null
+layout_spectrum: 0.16292770160362124
+typography_spectrum: 0.560840745922178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9321890014689416
+  lightness: 0.26382241351529956
+  saturation: 0.7364090273622423
+  rhythmicContrast: 0.44425602187402546
+purpose: []
